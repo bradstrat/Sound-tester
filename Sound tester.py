@@ -1,4 +1,4 @@
-#Import needed libs
+#Import needed modules
 import winsound
 import time
 
